@@ -29,6 +29,7 @@
   - 김동영 / 2학년 / 20175111 / klgh1256@s.hallym.ac.kr / https://github.com/op2gs2/RESUME/blob/master/RESUME.md
   - 강보경 / 2학년 / 20175103 / 20175103@s.hallym.ac.kr / https://github.com/KangBokyeong/RESUME/blob/master/RESUME.md
   - 이화준 / 2학년 / 201753333 / swag0090@naver.com / https://github.com/MACE001/RESUME/blob/master/README.md
+  - 이유나 / 2학년 / 20175156 / yuna2355@gmail.com / https://github.com/yougottheswag/Resume
 
 * **1학년**
 
